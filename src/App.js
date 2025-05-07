@@ -16,13 +16,13 @@ const DEMO_SERVER_DATA = [
     status: "OK",
     scheduleDate: "2025-05-12T12:15:23.794Z",
   },
-  {
+  { 
     id: 2,
     name: "Filter B",
     status: "Needs Replacement",
     scheduleDate: "2025-05-12T12:15:23.794Z",
   },
-  {
+  { 
     id: 3,
     name: "Filter C",
     status: "OK",
@@ -34,6 +34,7 @@ const DEMO_SERVER_DATA = [
     status: "Needs Replacement",
     scheduleDate: "2025-05-12T12:15:23.794Z",
   },
+  
 ];
 
 function App() {
